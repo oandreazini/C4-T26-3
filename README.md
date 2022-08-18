@@ -48,4 +48,14 @@ DELETE    /api/ventas/{id}
 https://c4-t26-3.herokuapp.com/api/cajeros
 ![image](https://user-images.githubusercontent.com/55554433/185461489-b0609edd-a2ea-48c1-be11-7d03d59c1437.png)
 
+https://c4-t26-3.herokuapp.com/api/productos
+![image](https://user-images.githubusercontent.com/55554433/185461718-f05eb1f4-22ea-479a-82ec-98285c704764.png)
+
+https://c4-t26-3.herokuapp.com/api/maquinasRegistradoras
+![image](https://user-images.githubusercontent.com/55554433/185462145-4fa4babb-7b42-4dc3-8aa1-8e534fba6e7a.png)
+
+https://c4-t26-3.herokuapp.com/api/ventas
+![image](https://user-images.githubusercontent.com/55554433/185462310-c3a96780-eba1-4d55-9aa3-0ab9b11a76ff.png)
+
+
 
