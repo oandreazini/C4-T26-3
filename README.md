@@ -43,6 +43,9 @@ PUT       /api/ventas/{id}
 DELETE    /api/ventas/{id}
 ```
 
-#### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/55554433/185455697-50e3c691-57dc-427a-803f-d622f65e170e.png)
+#### 5. Screenshot imagen de los resultados, con get sin id.
+
+https://c4-t26-3.herokuapp.com/api/cajeros
+![image](https://user-images.githubusercontent.com/55554433/185461489-b0609edd-a2ea-48c1-be11-7d03d59c1437.png)
+
 
