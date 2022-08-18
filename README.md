@@ -6,7 +6,7 @@ Demo API REST creada con Spring Tool Suite 4  utilizando varias entidades ER y c
 H2.
 ```
 
-#### 2. Link a un demo con el proyecto desplegado: https://c4-t26-1.herokuapp.com/
+#### 2. Link a un demo con el proyecto desplegado: https://c4-t26-3.herokuapp.com/
 
 ```
 * Nombre de la App: [HEROKU] (https://dashboard.heroku.com/)
@@ -44,3 +44,5 @@ DELETE    /api/ventas/{id}
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
+![image](https://user-images.githubusercontent.com/55554433/185455697-50e3c691-57dc-427a-803f-d622f65e170e.png)
+
